@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+a {
+    color:rgb(24, 74, 226);
+    text-decoration: none;
+}
