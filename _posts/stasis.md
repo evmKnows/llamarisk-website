@@ -1,5 +1,5 @@
 ---
-title: 'Asset Risk Assessment - Stasis'
+title: 'Asset Risk Assessment - Stasis (EURS)'
 excerpt: 'This report was prepared to provide additional clarity on EURS, evaluate its status amid a rapidly changing regulatory environment, and reassess its soundness as an important euro stablecoin of the Curve ecosystem.'
 coverImage: '/assets/blog/pixel.png'
 date: '2023-03-09T05:35:07.322Z'

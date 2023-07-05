@@ -12,7 +12,7 @@ const Intro = () => {
               href="https://cryptorisks.substack.com/archive"
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-2 px-4 md:px-6 md:py-3 w-32 md:w-auto max-w-full text-center duration-200 transition-colors mb-3 md:mb-0"
             >
-              Our reviews
+              All reviews
             </a>
             <a
               href="https://twitter.com/LlamaRisk"

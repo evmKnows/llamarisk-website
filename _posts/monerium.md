@@ -1,5 +1,5 @@
 ---
-title: 'Asset Risk Assessment - Monerium'
+title: 'Asset Risk Assessment - Monerium (EURE)'
 excerpt: 'In this asset risk assessment, we will cover the EURe stablecoin issued by Monerium prompted by the request to deploy an agEUR/EURe gauge. Since the stablecoin is issued under the strict regulatory requirements imposed by the e-money directive we decided to elaborate on the concept of e-money and its regulations.'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2022-12-29T05:35:07.322Z'
